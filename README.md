@@ -1,20 +1,112 @@
-## 🚀 About Me<br><br>- 🎓 Electronics & Communication Engineering Student<br>- 💻 Skilled in Java and Data Structures & Algorithms<br>- 📚 Continuously improving problem-solving abilities<br>- 🌱 Learning Core ECE + Software Development<br>- 🤝 Open to collaboration on interesting projects<br>- ⚡ Turning logic into solutions
+<div align="center">
 
+# Hi 👋, I'm Krishna Singh
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=krishna03-23-085&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=krishna03-23-085&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=krishna03-23-085&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Electronics & Communication Engineering Student | Java Developer | AI & Embedded Systems Enthusiast
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=krishna03-23-085&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;Data+Structures+%26+Algorithms;AI+Enthusiast;Embedded+Systems+Learner;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=krishna03-23-085&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://komarev.com/ghpvc/?username=krishna03-23-085&style=for-the-badge)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=krishna03-23-085&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+- 🎓 B.Tech in Electronics & Communication Engineering
+- 💻 Passionate about Java and Data Structures & Algorithms
+- 🤖 Interested in Artificial Intelligence, Embedded Systems & Software Development
+- 🌱 Currently learning and building real-world projects
+- 🤝 Open to collaborating on innovative and impactful projects
+- ⚡ Turning ideas into practical solutions through code
+
+---
+
+# 🌱 Currently Learning
+
+- ☕ Java Data Structures & Algorithms
+- 🤖 Artificial Intelligence & Machine Learning
+- 💡 Object-Oriented Programming
+- 🔌 Embedded Systems
+
+---
+
+# 💻 Tech Stack
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+### 🤖 AI-Based Smart Glasses for Blind Assistance
+> Computer vision–based assistive system that helps visually impaired users detect obstacles and navigate safely.
+
+### 🌦️ Weather Monitoring System
+> Arduino-based environmental monitoring system using sensors for real-time data collection.
+
+### 💳 Java Banking System
+> Console-based banking application built using Java and Object-Oriented Programming principles.
+
+### 🤖 Jarvis AI Assistant
+> Voice-controlled AI assistant capable of automating common desktop tasks and responding to voice commands.
+
+---
+
+# 📊 GitHub Statistics
+
+![](https://github-readme-stats.shion.dev/api?username=krishna03-23-085&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=krishna03-23-085&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=krishna03-23-085&theme=dark&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=krishna03-23-085&theme=radical&no-frame=true&no-bg=true&margin-w=8)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/krishna-singh-b1ba0336b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:krishna2005singhh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+> I enjoy building AI-powered applications and embedded systems that solve real-world problems while continuously improving my programming and problem-solving skills.
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code • Learn • Build • Repeat"* 🚀
+
+</div>
+```
+
+
