@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 🚀 About Me<br><br>- 🎓 Electronics & Communication Engineering Student<br>- 💻 Skilled in Java and Data Structures & Algorithms<br>- 📚 Continuously improving problem-solving abilities<br>- 🌱 Learning Core ECE + Software Development<br>- 🤝 Open to collaboration on interesting projects<br>- ⚡ Turning logic into solutions
 
 
